@@ -1,0 +1,15 @@
+.nav{
+	height: 30px;
+	background-color: #87ceeb;
+}
+nav a{
+	text-decoration: none;
+	font-size: 25px;
+	padding: 130px;
+	color: black;
+}
+
+a img{
+	height: 400px;
+	width: 1350px;
+}
