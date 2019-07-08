@@ -11,6 +11,7 @@
 		</div>
 
 		<div>
+		<h1>Welcome to my Website</h1>
 			<form action="system.php" method="POST">
 				<label>First Name</label>
 				<input type="name" name="fname"><br>
@@ -37,11 +38,11 @@
 
 				<label>Country</label>
 				<select>
-					<option>Nepal</option>
-					<option>China</option>
-					<option>USA</option>
-					<option>India</option>
-					<option>Other</option>
+					<option value="Nepal">Nepal</option>
+					<option value="China">China</option>
+					<option value="USA">USA</option>
+					<option value="India">India</option>
+					<option value="Other">Other</option>
 				</select><br>
 
 				<label>Password</label>
